@@ -1,0 +1,3 @@
+<div>
+    COUNTER
+</div>
